@@ -1,3 +1,5 @@
+### :wave: Hi! My name is Jason and I'm a software developer from Northern Virginia.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jasonpak.me/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-j-pak/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeyoung.pak8@gmail.com)
@@ -19,8 +21,6 @@
 
 #### :bar_chart: My Metrics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jasonpakk&theme=calm)](https://github.com/jasonpakk)
-
-<img align='right' src="https://i.pinimg.com/originals/78/83/56/788356c40bd55cc9be8037e9879695f0.gif" width="200">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonpakk&size_weight=0.1&layout=compact&count_weight=0.9&langs_count=10)](https://github.com/jasonpakk)
 
